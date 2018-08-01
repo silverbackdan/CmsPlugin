@@ -11,6 +11,12 @@
             "homepage": "http://kamil.kokot.me"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/silverbackdan/media-bundle"
+        }
+    ],
     "require": {
         "php": "^7.1",
 
