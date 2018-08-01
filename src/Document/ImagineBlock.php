@@ -5,7 +5,7 @@ namespace Lakion\CmsPlugin\Document;
 use PHPCR\NodeInterface;
 use Symfony\Cmf\Bundle\MediaBundle\Doctrine\Phpcr\Image;
 use Symfony\Cmf\Bundle\MediaBundle\ImageInterface;
-use Symfony\Cmf\Bundle\BlockBundle\Doctrine\Phpcr\AbstractBlock
+use Symfony\Cmf\Bundle\BlockBundle\Doctrine\Phpcr\AbstractBlock;
 use Symfony\Cmf\Bundle\CoreBundle\Translatable\TranslatableInterface;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
 /**
